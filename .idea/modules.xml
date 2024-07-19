@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/deep-learning-course-assignments.iml" filepath="$PROJECT_DIR$/.idea/deep-learning-course-assignments.iml" />
+      <module fileurl="file://H:/Miew/quera-deep-learning/new-home/.idea/new-home.iml" filepath="H:/Miew/quera-deep-learning/new-home/.idea/new-home.iml" />
     </modules>
   </component>
 </project>
